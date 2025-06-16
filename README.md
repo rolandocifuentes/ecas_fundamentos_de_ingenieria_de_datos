@@ -1,11 +1,12 @@
-<span style="font-size:12px"><strong>Servicio Nacional de Capacitación y Empleo SENCE - Talento Digital para Chile - Escuela de Contadores Auditores de Santiago</strong></span>
-<br>
+Servicio Nacional de Capacitación y Empleo SENCE - Talento Digital para Chile - Escuela de Contadores Auditores de Santiago
+<br><br><br>
 
-<span style="color:blue; font-size:35px"><strong>Fundamentos de Ingeniería de Datos</strong></span>
+
+# Fundamentos de Ingeniería de Datos
 
 Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desarrolladas en el marco del curso **Fundamentos de Ingeniería de Datos**, impartido por la Escuela de Contadores Auditores de Santiago y financiado por el programa **Talento Digital para Chile** a través de SENCE.
 
-<span style="color:blue; font-size:20px"><strong>Estructura del repositorio</strong></span>
+### Estructura del repositorio
 
 1. Módulo 01:
     - Lección 1: Perfil laboral asociado al plan formativo.
@@ -22,7 +23,7 @@ Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desar
     - Lección 6: Excepciones en Python.
       
 
-<span style="color:blue; font-size:20px"><strong>Contenidos abordados</strong></span>
+### Contenidos abordados
 
 - Lógica de programación en Python
 - Estructuras de datos: listas, diccionarios, tuplas, sets
@@ -30,7 +31,7 @@ Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desar
 - Programación orientada a objetos
 - Pruebas, documentación y estructura de portafolio
 
-<span style="color:blue; font-size:20px"><strong>Autor</strong></span>
+### Autor
 
 - Concursante del certificado: **Rolando Andrés Cifuentes Cid**
 - Año: 2025
