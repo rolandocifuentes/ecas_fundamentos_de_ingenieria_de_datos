@@ -1,3 +1,5 @@
+![](img/logo.png)
+
 Servicio Nacional de Capacitación y Empleo SENCE - Talento Digital para Chile - Escuela de Contadores Auditores de Santiago
 <br><br><br>
 
