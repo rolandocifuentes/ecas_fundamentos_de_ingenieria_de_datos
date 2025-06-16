@@ -2,8 +2,6 @@
 
 # Fundamentos de Ingeniería de Datos
 
----
-
 <br>
 
 Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desarrolladas en el marco del curso **Fundamentos de Ingeniería de Datos**, impartido por la Escuela de Contadores Auditores de Santiago y financiado por el programa **Talento Digital para Chile** a través de SENCE.
@@ -35,7 +33,7 @@ Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desar
 
 <br>
 
----
+#
 
 ### Autor
 
