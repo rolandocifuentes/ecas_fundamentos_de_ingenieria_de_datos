@@ -1,9 +1,5 @@
 ![](img/logo.png)
 
-Servicio Nacional de Capacitación y Empleo SENCE - Talento Digital para Chile - Escuela de Contadores Auditores de Santiago
-<br><br><br>
-
-
 # Fundamentos de Ingeniería de Datos
 
 Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desarrolladas en el marco del curso **Fundamentos de Ingeniería de Datos**, impartido por la Escuela de Contadores Auditores de Santiago y financiado por el programa **Talento Digital para Chile** a través de SENCE.
