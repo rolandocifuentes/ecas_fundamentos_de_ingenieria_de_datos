@@ -40,3 +40,8 @@ Este repositorio contiene actividades, ejercicios, manuales y evaluaciones desar
 - **Rolando Andrés Cifuentes Cid**
 - <https://www.linkedin.com/in/rcifuentesc>
 - Año: 2025
+
+### Docente
+
+- Felipe Cuevas Cerón
+- <https://github.com/ffelipecuevasc>
